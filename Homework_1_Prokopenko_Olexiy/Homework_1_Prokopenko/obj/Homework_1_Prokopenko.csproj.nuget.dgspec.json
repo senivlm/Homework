@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/olexiy/RiderProjects/AlghoritmLabs/Homework_1_Prokopenko/Homework_1_Prokopenko/Homework_1_Prokopenko.csproj": {}
+    "/home/olexiy/RiderProjects/Sigma_HW/Homework_1_Prokopenko/Homework_1_Prokopenko/Homework_1_Prokopenko.csproj": {}
   },
   "projects": {
-    "/home/olexiy/RiderProjects/AlghoritmLabs/Homework_1_Prokopenko/Homework_1_Prokopenko/Homework_1_Prokopenko.csproj": {
+    "/home/olexiy/RiderProjects/Sigma_HW/Homework_1_Prokopenko/Homework_1_Prokopenko/Homework_1_Prokopenko.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/olexiy/RiderProjects/AlghoritmLabs/Homework_1_Prokopenko/Homework_1_Prokopenko/Homework_1_Prokopenko.csproj",
+        "projectUniqueName": "/home/olexiy/RiderProjects/Sigma_HW/Homework_1_Prokopenko/Homework_1_Prokopenko/Homework_1_Prokopenko.csproj",
         "projectName": "Homework_1_Prokopenko",
-        "projectPath": "/home/olexiy/RiderProjects/AlghoritmLabs/Homework_1_Prokopenko/Homework_1_Prokopenko/Homework_1_Prokopenko.csproj",
+        "projectPath": "/home/olexiy/RiderProjects/Sigma_HW/Homework_1_Prokopenko/Homework_1_Prokopenko/Homework_1_Prokopenko.csproj",
         "packagesPath": "/home/olexiy/.nuget/packages/",
-        "outputPath": "/home/olexiy/RiderProjects/AlghoritmLabs/Homework_1_Prokopenko/Homework_1_Prokopenko/obj/",
+        "outputPath": "/home/olexiy/RiderProjects/Sigma_HW/Homework_1_Prokopenko/Homework_1_Prokopenko/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/olexiy/.nuget/NuGet/NuGet.Config"

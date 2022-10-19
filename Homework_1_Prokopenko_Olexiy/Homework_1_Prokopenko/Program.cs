@@ -10,3 +10,5 @@ var buy = new Buy();
 buy.Products.Add(allProducts[0], 3);
 buy.Products.Add(allProducts[1], 2);
 Check.Display(buy);
+Check check = new Check();
+Console.WriteLine(check.ToString());
