@@ -1,0 +1,15 @@
+/home/olexiy/RiderProjects/AlghoritmLabs/Homework_1_Prokopenko/Homework_1_Prokopenko/bin/Debug/net6.0/Homework_1_Prokopenko
+/home/olexiy/RiderProjects/AlghoritmLabs/Homework_1_Prokopenko/Homework_1_Prokopenko/bin/Debug/net6.0/Homework_1_Prokopenko.deps.json
+/home/olexiy/RiderProjects/AlghoritmLabs/Homework_1_Prokopenko/Homework_1_Prokopenko/bin/Debug/net6.0/Homework_1_Prokopenko.runtimeconfig.json
+/home/olexiy/RiderProjects/AlghoritmLabs/Homework_1_Prokopenko/Homework_1_Prokopenko/bin/Debug/net6.0/Homework_1_Prokopenko.dll
+/home/olexiy/RiderProjects/AlghoritmLabs/Homework_1_Prokopenko/Homework_1_Prokopenko/bin/Debug/net6.0/Homework_1_Prokopenko.pdb
+/home/olexiy/RiderProjects/AlghoritmLabs/Homework_1_Prokopenko/Homework_1_Prokopenko/obj/Debug/net6.0/Homework_1_Prokopenko.csproj.AssemblyReference.cache
+/home/olexiy/RiderProjects/AlghoritmLabs/Homework_1_Prokopenko/Homework_1_Prokopenko/obj/Debug/net6.0/Homework_1_Prokopenko.GeneratedMSBuildEditorConfig.editorconfig
+/home/olexiy/RiderProjects/AlghoritmLabs/Homework_1_Prokopenko/Homework_1_Prokopenko/obj/Debug/net6.0/Homework_1_Prokopenko.AssemblyInfoInputs.cache
+/home/olexiy/RiderProjects/AlghoritmLabs/Homework_1_Prokopenko/Homework_1_Prokopenko/obj/Debug/net6.0/Homework_1_Prokopenko.AssemblyInfo.cs
+/home/olexiy/RiderProjects/AlghoritmLabs/Homework_1_Prokopenko/Homework_1_Prokopenko/obj/Debug/net6.0/Homework_1_Prokopenko.csproj.CoreCompileInputs.cache
+/home/olexiy/RiderProjects/AlghoritmLabs/Homework_1_Prokopenko/Homework_1_Prokopenko/obj/Debug/net6.0/Homework_1_Prokopenko.dll
+/home/olexiy/RiderProjects/AlghoritmLabs/Homework_1_Prokopenko/Homework_1_Prokopenko/obj/Debug/net6.0/refint/Homework_1_Prokopenko.dll
+/home/olexiy/RiderProjects/AlghoritmLabs/Homework_1_Prokopenko/Homework_1_Prokopenko/obj/Debug/net6.0/Homework_1_Prokopenko.pdb
+/home/olexiy/RiderProjects/AlghoritmLabs/Homework_1_Prokopenko/Homework_1_Prokopenko/obj/Debug/net6.0/Homework_1_Prokopenko.genruntimeconfig.cache
+/home/olexiy/RiderProjects/AlghoritmLabs/Homework_1_Prokopenko/Homework_1_Prokopenko/obj/Debug/net6.0/ref/Homework_1_Prokopenko.dll
