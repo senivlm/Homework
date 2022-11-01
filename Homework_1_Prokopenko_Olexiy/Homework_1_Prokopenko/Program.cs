@@ -1,6 +1,6 @@
 ﻿using System.Threading.Channels;
 using Homework_1_Prokopenko;
-
+// Вітаю. Все доступно.
 var allProducts = new List<Product>
 {
     new("Orange", 20, 300),
