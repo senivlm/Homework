@@ -8,7 +8,7 @@ public class Check
     {
         Console.WriteLine(buy.ToString());
     }
-
+//обговоримо детальніше на занятті.
     public override string ToString()
     {
         return "Що повинен повертати цей метод якщо в класі немає жодних \"елементів-даних\"?)\nІ навіщо взагалі цей клас потрібен?";
