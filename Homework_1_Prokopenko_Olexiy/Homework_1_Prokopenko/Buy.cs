@@ -3,7 +3,7 @@ using System.Text;
 namespace Homework_1_Prokopenko;
 
 public class Buy
-{
+{// Тут не добре. порушується інкапсуляція
     public Dictionary<Product, int> Products { get; }
 
     public Buy()
