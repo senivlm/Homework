@@ -2,7 +2,7 @@ using System.Text;
 
 namespace Homework_1_Prokopenko;
 
-public class Buy
+public class Buy : IComparable
 {
     public Dictionary<Product, int> Products { get; }
 

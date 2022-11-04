@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "HomeWork_4_Prokopenko_Olexiy/1.0.0": {
+        "runtime": {
+          "HomeWork_4_Prokopenko_Olexiy.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "HomeWork_4_Prokopenko_Olexiy/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
