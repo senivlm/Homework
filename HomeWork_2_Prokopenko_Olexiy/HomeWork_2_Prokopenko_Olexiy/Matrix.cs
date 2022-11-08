@@ -2,13 +2,14 @@ namespace HomeWork_2_Prokopenko_Olexiy;
 
 public class Matrix
 {
+   // При такому проєктуванню метод мав би буи статичним. Чому не ООП?
     public int[,] VerticalSnake(int n, int m)
     {
         var matrix = new int[n, m];
         var number = 1;
         var positiveDirection = true;
         for (int j = 0; j < m; j++)
-        {
+        {// лишні умови
             if (positiveDirection)
             {
                 for (int i = 0; i < n; i++)
@@ -82,7 +83,7 @@ public class Matrix
 
         return matrix;
     }
-
+//краще ToString
     public void Print(int[,] matrix)
     {
         for (int i = 0; i < matrix.GetLength(0); i++)
