@@ -1,7 +1,7 @@
 namespace HomeWork_2_Prokopenko_Olexiy;
 
 public class Task2
-{
+{//Порушення інкапсуляції
     public int[,] Matrix { get; }
 
     public Task2(int size)
@@ -18,7 +18,7 @@ public class Task2
     }
 
     public void FindLine()
-    {
+    {// Не оптимально
         var index = 0;
         var maxLength = 0;
         var maxEl = 0;
