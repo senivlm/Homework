@@ -31,8 +31,9 @@ public class Storage
         }
     }
     public override bool Equals(object? obj)
-    {
+    {// Не здійснена перевірка,  чи можна зробити приведення до типу.
         var storage = obj as Storage;
+        //Ця перевірка має бути першою.
         if (storage == null)
         {
             return false;
