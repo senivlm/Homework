@@ -13,7 +13,7 @@ public class ArrayWrapper
         }
     }
     private bool IsSimple(int num)
-    {
+    {//Можна скоротити кількість операцій
         for (int i = 2; i <= num / 2; i++)
         {
             if (num % i == 0)
@@ -24,6 +24,7 @@ public class ArrayWrapper
 
         return true;
     }
+    // не порахована частота.
     public void PrintDistinct()
     {
         foreach (var i in _arr.Distinct())
