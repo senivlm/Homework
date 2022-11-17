@@ -15,6 +15,7 @@ public class Storage
     {
         Products.ForEach(product => product.ChangePrice(countPercent));
     }
+   // З модельного класу слід прибрати всі прив'язки до консолі.
 
     public void FindAllMeat()
     {
