@@ -22,7 +22,7 @@ public class Meat : Product
         return base.ToString() + $", category: {Category}, kind: {Kind}";
     }
     public override bool Equals(object? obj)
-    {
+    {// Приводити до типу можна тільки тоді, коли здійснили операцію is
         var meat = obj as Meat;
         if (meat == null)
         {
