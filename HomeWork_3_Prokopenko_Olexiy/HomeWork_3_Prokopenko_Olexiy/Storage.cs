@@ -12,7 +12,7 @@ public class Storage
     {
         Products.ForEach(product => product.ChangePrice(countPercent));
     }
-
+// не друкувати, а показувати колекцію.
     public void FindAllMeat()
     {
         Products
