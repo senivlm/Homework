@@ -44,7 +44,7 @@ public class Storage
         }
     }
     public override bool Equals(object? obj)
-    {
+    {// Не правильний порядок.
         var storage = obj as Storage;
         if (storage == null)
         {
