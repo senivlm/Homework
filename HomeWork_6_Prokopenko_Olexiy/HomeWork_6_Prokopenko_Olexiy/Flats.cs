@@ -1,7 +1,7 @@
 namespace HomeWork_6_Prokopenko_Olexiy;
 
 public class Flats
-{
+{// порушення інкапсуляції
     public List<FlatInfo> FlatInfos { get; set; }
     public int Quarter { get; set; }
     public int FlatCount { get; set; }
