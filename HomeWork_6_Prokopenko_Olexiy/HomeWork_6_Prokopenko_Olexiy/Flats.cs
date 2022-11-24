@@ -1,7 +1,7 @@
 namespace HomeWork_6_Prokopenko_Olexiy;
 
 public class Flats
-{
+{// Не побачила роботи з культурою при визначенні дат, що дозволило б виводити назву місяця, зручну для користувача.
     public List<FlatInfo> FlatInfos { get; set; }
     public int Quarter { get; set; }
     public int FlatCount { get; set; }
