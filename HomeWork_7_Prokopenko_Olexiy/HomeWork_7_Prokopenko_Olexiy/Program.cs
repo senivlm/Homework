@@ -40,7 +40,7 @@ static bool IsValidNumber(string ccNumber)
     {
         var nx = ccNumber.ToArray();
         var n = int.Parse(nx[i].ToString());
-
+// якщо якась літера не цифра, буде помилка виконання вже на 42 стрічці.
         if (alternate)
         {
             n *= 2;
